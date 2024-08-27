@@ -6,7 +6,6 @@ This repository provides a dataset of hand sign images that can be used to train
 The dataset can be useful for projects related to sign language recognition, gesture control applications, human-computer interaction, and more.
 
 ## __1. Usage__
-To use this dataset for training a machine learning model, follow these steps:
 Clone the Repository: git clone https://github.com/your-username/hand-sign-dataset.git
 
 ## __2. Access the Dataset:__
